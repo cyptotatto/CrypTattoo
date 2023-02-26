@@ -1,6 +1,6 @@
 이곳에 나중에 코드 모으겠습니다!
 <p align="middle" >
-  <img width="200px;" src="https://user-images.githubusercontent.com/87933367/217172968-1cca2d19-5b7e-491c-84cd-25103061d75d.png"/>
+  ![image](https://user-images.githubusercontent.com/59263564/221417635-f374e837-aed2-48e0-bda8-e4e793500501.png)
 </p>
 
 <h1 align="middle">MBTI 과몰입 테스트</h1>
