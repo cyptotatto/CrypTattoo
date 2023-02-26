@@ -40,3 +40,33 @@ CrypTattoo는 타투이스트들의 도안을 NFT화 하여 그들의 작품에 
 ![6](https://user-images.githubusercontent.com/59263564/197327551-796d29cb-233e-4c33-b657-faf1db537fa7.jpg)
 ![7](https://user-images.githubusercontent.com/59263564/197327555-d8c28688-1eb6-4d2e-9bbd-c8db85403128.jpg)
 ![8](https://user-images.githubusercontent.com/59263564/197327559-eb08a849-bcbf-498f-948d-ab51cd733819.jpg)
+
+## 👨‍👩‍👧‍👦 Members
+
+**Backend**
+
+<div>
+  
+| [mangming2](https://github.com/mangming2) | [mangming2](https://github.com/mangming2)
+|:---:|:---:|
+|<img width="120" alt="bluewow" src="https://user-images.githubusercontent.com/59263564/221418494-c8e1184b-e4f9-4ef0-82f3-8416c8d375ba.png">|<img width="120" alt="mangming2" src="https://user-images.githubusercontent.com/59263564/221418494-c8e1184b-e4f9-4ef0-82f3-8416c8d375ba.png">
+
+  
+  
+  
+</div>
+
+<br/>
+
+
+
+
+**Frontend**
+
+<div>
+  
+| [mangming2](https://github.com/mangming2) | [mangming2](https://github.com/mangming2)
+|:---:|:---:|
+|<img width="120" alt="bluewow" src="https://user-images.githubusercontent.com/59263564/221418494-c8e1184b-e4f9-4ef0-82f3-8416c8d375ba.png">|<img width="120" alt="mangming2" src="https://user-images.githubusercontent.com/59263564/221418494-c8e1184b-e4f9-4ef0-82f3-8416c8d375ba.png">
+
+</div>
