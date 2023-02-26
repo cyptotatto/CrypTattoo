@@ -1,6 +1,6 @@
 이곳에 나중에 코드 모으겠습니다!
 
-            <p align="middle" >
+<p align="middle" >
   <img width="200px;" src="https://user-images.githubusercontent.com/59263564/221417675-4b92fb59-c379-464f-9969-3ca0639f7431.png"/>
 </p>
 
