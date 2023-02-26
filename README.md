@@ -1,7 +1,7 @@
 이곳에 나중에 코드 모으겠습니다!
-<p align="middle" >
-  ![image](https://user-images.githubusercontent.com/59263564/221417635-f374e837-aed2-48e0-bda8-e4e793500501.png)
-</p>
+
+  ![image](https://user-images.githubusercontent.com/59263564/221417675-4b92fb59-c379-464f-9969-3ca0639f7431.png)
+
 
 <h1 align="middle">MBTI 과몰입 테스트</h1>
 <p align="middle">나는 어떤 과몰입 유형일까? 🤔</p>
