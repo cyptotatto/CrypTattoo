@@ -5,13 +5,14 @@
 </p>
 
 <h1 align="middle">CrypTattoo</h1>
-<p align="middle">나는 어떤 과몰입 유형일까? 🤔</p>
+<p align="middle">Your tattoo, your asset.</p>
 
 </br>
 
 ## 🔗 LINK
 
-[<img src="https://img.shields.io/badge/-MBTI over immersion test-important?style=flat&logo=google-chrome&logoColor=white" />](https://userju.github.io/MBTI-over-immersion-TEST/) [<img src="https://img.shields.io/badge/-tech blog-pi?style=flat&logo=google-chrome&logoColor=white" />](https://pottatt0.tistory.com/category/%F0%9F%A4%B8%E2%80%8D%E2%99%80%EF%B8%8F%20%EB%82%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/MBTI%20%EA%B3%BC%EB%AA%B0%EC%9E%85%20%ED%85%8C%EC%8A%A4%ED%8A%B8)
+[<img src="https://img.shields.io/badge/-Notion-pi?style=flat&logo=google-chrome&logoColor=white" />](https://www.notion.so/hairconsulting/CrypTattoo-07a1f1b55be14b699fa48d625c8a4bc9?pvs=4)
+
 
 </br>
 </br>
@@ -29,7 +30,7 @@ CrypTattoo는 타투이스트들의 도안을 NFT화 하여 그들의 작품에 
 
 ## 📚 Details
 
-![](https://user-images.githubusercontent.com/87933367/217415499-b62b833b-4170-4b4c-b1fe-a5cf4b1acce1.png)
+
 
 ![1](https://user-images.githubusercontent.com/59263564/197327533-73157dbf-c119-4e13-a967-56125642a04f.jpg)
 ![2](https://user-images.githubusercontent.com/59263564/197327536-41a66ffc-be4a-4822-bd11-b2c7304b7065.jpg)
